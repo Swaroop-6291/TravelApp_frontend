@@ -1,0 +1,1 @@
+export const BASE_URL = "https://travelapp-backend-tkyf.onrender.com/api/v1"

@@ -62,7 +62,7 @@ const year = new Date().getFullYear()
                   </Link>
                 </span>
                 <span>
-                  <Link to="https://instagram.com/im.man_j?igshid=MzRlODBiNWFlZA==">
+                  <Link to="https://instagram.com/">
                     <i className="ri-instagram-line"></i>
                   </Link>
                 </span>
@@ -112,7 +112,7 @@ const year = new Date().getFullYear()
                     <span><i className="ri-mail-line"></i></span>
                     Email:
                   </h6>
-                  <p className="mb-0">manjay_patel@gmail.com</p>
+                  <p className="mb-0">swaroop6291@gmail.com</p>
                 </ListGroupItem>
 
                 <ListGroupItem className="ps-0 border-0 d-flex align-items-center gap-3">
@@ -121,7 +121,7 @@ const year = new Date().getFullYear()
                     <span><i className="ri-phone-fill"></i></span>
                     Phone:
                   </h6>
-                  <p className="mb-0">+91 8929282720</p>
+                  <p className="mb-0">+91 8595364582</p>
                 </ListGroupItem>
             </ListGroup>
           </Col>
